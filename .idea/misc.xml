@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sahil/OneDrive/Desktop/Android/Aniga/app/src/main/res/drawable/gradient.xml" value="0.142" />
+        <entry key="..\:/Users/sahil/OneDrive/Desktop/Android/Aniga/app/src/main/res/drawable/ic_error_background.xml" value="0.142" />
+        <entry key="..\:/Users/sahil/OneDrive/Desktop/Android/Aniga/app/src/main/res/drawable/ic_error_foreground.xml" value="0.142" />
+        <entry key="..\:/Users/sahil/OneDrive/Desktop/Android/Aniga/app/src/main/res/drawable/ic_loading.xml" value="0.142" />
+        <entry key="..\:/Users/sahil/OneDrive/Desktop/Android/Aniga/app/src/main/res/drawable/ic_search_foreground.xml" value="0.142" />
+        <entry key="..\:/Users/sahil/OneDrive/Desktop/Android/Aniga/app/src/main/res/drawable/ic_star1_foreground.xml" value="0.142" />
+        <entry key="..\:/Users/sahil/OneDrive/Desktop/Android/Aniga/app/src/main/res/drawable/ic_star_background.xml" value="0.142" />
+        <entry key="..\:/Users/sahil/OneDrive/Desktop/Android/Aniga/app/src/main/res/drawable/ic_star_foreground.xml" value="0.142" />
+        <entry key="..\:/Users/sahil/OneDrive/Desktop/Android/Aniga/app/src/main/res/drawable/ic_view_headline_foreground.xml" value="0.142" />
+        <entry key="..\:/Users/sahil/OneDrive/Desktop/Android/Aniga/app/src/main/res/drawable/layout_pic_style.xml" value="0.142" />
+        <entry key="..\:/Users/sahil/OneDrive/Desktop/Android/Aniga/app/src/main/res/font/font.xml" value="0.21458333333333332" />
+        <entry key="..\:/Users/sahil/OneDrive/Desktop/Android/Aniga/app/src/main/res/layout/activity_main.xml" value="0.184375" />
+        <entry key="..\:/Users/sahil/OneDrive/Desktop/Android/Aniga/app/src/main/res/layout/anime_detail_fragment.xml" value="0.1965065502183406" />
+        <entry key="..\:/Users/sahil/OneDrive/Desktop/Android/Aniga/app/src/main/res/layout/anime_list_fragment.xml" value="0.184375" />
+        <entry key="..\:/Users/sahil/OneDrive/Desktop/Android/Aniga/app/src/main/res/layout/layout.xml" value="0.22" />
+        <entry key="..\:/Users/sahil/OneDrive/Desktop/Android/Aniga/app/src/main/res/layout/load_state_layout.xml" value="0.184375" />
+        <entry key="..\:/Users/sahil/OneDrive/Desktop/Android/Aniga/app/src/main/res/layout/network_state_layout.xml" value="0.184375" />
+        <entry key="..\:/Users/sahil/OneDrive/Desktop/Android/Aniga/app/src/main/res/layout/saved_anime_list_fragment.xml" value="0.184375" />
+        <entry key="..\:/Users/sahil/OneDrive/Desktop/Android/Aniga/app/src/main/res/menu/botttom_navigation_menu.xml" value="0.184375" />
+        <entry key="..\:/Users/sahil/OneDrive/Desktop/Android/Aniga/app/src/main/res/menu/menu_search.xml" value="0.184375" />
+        <entry key="..\:/Users/sahil/OneDrive/Desktop/Android/Aniga/app/src/main/res/mipmap-anydpi-v26/ic_error.xml" value="0.1" />
+        <entry key="..\:/Users/sahil/OneDrive/Desktop/Android/Aniga/app/src/main/res/mipmap-anydpi-v26/ic_error_round.xml" value="0.1" />
+        <entry key="..\:/Users/sahil/OneDrive/Desktop/Android/Aniga/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.142" />
+        <entry key="..\:/Users/sahil/OneDrive/Desktop/Android/Aniga/app/src/main/res/mipmap-anydpi-v26/ic_search.xml" value="0.1" />
+        <entry key="..\:/Users/sahil/OneDrive/Desktop/Android/Aniga/app/src/main/res/mipmap-anydpi-v26/ic_search_round.xml" value="0.1" />
+        <entry key="..\:/Users/sahil/OneDrive/Desktop/Android/Aniga/app/src/main/res/mipmap-anydpi-v26/ic_star.xml" value="0.142" />
+        <entry key="..\:/Users/sahil/OneDrive/Desktop/Android/Aniga/app/src/main/res/mipmap-anydpi-v26/ic_star1.xml" value="0.1" />
+        <entry key="..\:/Users/sahil/OneDrive/Desktop/Android/Aniga/app/src/main/res/mipmap-anydpi-v26/ic_star1_round.xml" value="0.1" />
+        <entry key="..\:/Users/sahil/OneDrive/Desktop/Android/Aniga/app/src/main/res/mipmap-anydpi-v26/ic_view_headline.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
