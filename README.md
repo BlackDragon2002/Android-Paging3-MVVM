@@ -5,7 +5,7 @@
 
 ## Aniga tells you about anime by fetching data from [Kitsu Api](https://kitsu.docs.apiary.io/#)
 ## In this project I have used following libraries and Architure 
-1) MVVM Architure
+1) MVVM Architecture
 2) [Paging Source](https://github.com/android/architecture-components-samples/tree/main/PagingSample) and [Remote Mediator](https://github.com/android/architecture-components-samples/tree/main/PagingWithNetworkSample) using Paging 3
 3) Architecture Components (Lifecycle, ViewModel, Room Persistence) 
 4) Coroutines and Flow
